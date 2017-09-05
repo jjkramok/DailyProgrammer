@@ -1,0 +1,5 @@
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\TestProject\bin\Debug\TestProject.exe
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\TestProject\obj\Debug\TestProject.exe
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\TestProject\obj\Debug\TestProject.pdb

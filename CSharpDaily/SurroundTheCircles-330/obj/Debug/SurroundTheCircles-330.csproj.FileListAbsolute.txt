@@ -1,0 +1,5 @@
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\SurroundTheCircles-330\bin\Debug\SurroundTheCircles_330.exe
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\SurroundTheCircles-330\bin\Debug\SurroundTheCircles_330.pdb
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\SurroundTheCircles-330\obj\Debug\SurroundTheCircles-330.csprojResolveAssemblyReference.cache
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\SurroundTheCircles-330\obj\Debug\SurroundTheCircles_330.exe
+C:\Users\Kramok\Documents\DailyProgrammer\CSharpDaily\SurroundTheCircles-330\obj\Debug\SurroundTheCircles_330.pdb
